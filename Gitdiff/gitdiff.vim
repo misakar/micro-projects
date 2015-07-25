@@ -22,6 +22,6 @@ f_handler.close()  # 关闭文件
 
 
 vim.command(":vs diff")  # 打开diff文件
-os.popen("rm -rf diff")  # 删除这个文件
 GIT
+
 endfunction
