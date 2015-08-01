@@ -24,7 +24,7 @@ import os
 #USER = raw_input("username$ ")
 USER = 'neo1218'
 #PASSWORD = getpass.getpass('password$ ')
-PASSWORD = 'ZCH411zch'
+PASSWORD = '********'
 
 URL1 = 'https://github.com/login'
 URL2 = 'https://github.com/session'
